@@ -8,7 +8,7 @@ def read(filename):
 
 
 setup(
-    name='django-q-email',
+    name='django-q2-email',
     version='5.0.1',
     description='Queues the sending of email with Django Q.',
     long_description=__doc__,
